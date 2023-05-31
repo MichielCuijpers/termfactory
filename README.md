@@ -10,6 +10,7 @@
 
 A python package for generating LaTeX and python code for evaluating residual terms.
 The package is used to generate the `einsum` equations for the [vecc package (link tbd)]().
+edit
 
 
 At the moment the package provides three primary ansatz:
